@@ -12,6 +12,8 @@ py (python) atau exe (aplikasi untuk komputer)
 
 py (python) or exe (application for computer)
 
+download exe = https://github.com/Xnuvers007/WifiPassword/raw/master/Wifi%20Password.exe
+
 # Selamat Menggunakan / Happy Using
 
 ![Gambar](https://i.pinimg.com/736x/28/ab/5b/28ab5be238b2619c8b8be717ac81c128.jpg "ini gambar :V this is image :V")
